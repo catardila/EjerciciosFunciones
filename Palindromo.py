@@ -6,4 +6,5 @@ def plm(cadena):
     return cadena==invertir(cadena)
 print(plm("radar"))   
 print(plm("python")) 
-print(plm("Estiven"))
+print(plm("Cata"))
+
